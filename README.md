@@ -1,5 +1,6 @@
 # Library-Management-System-Java
 Using java swing library management system is created 
-# cmd to compile & execute
+# cmd to compile 
   javac LibraryUI.java
-  java LibraryUI
+# cmd to execute
+java LibraryUI
